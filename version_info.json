@@ -14,5 +14,5 @@
         }
     ],
     "update_log": "1.可选更新链接\n2.试听进度条",
-    "force_update": false
+    "force_update": true
 }
