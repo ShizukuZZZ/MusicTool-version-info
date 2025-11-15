@@ -3,13 +3,13 @@
     "download_url": [
         {
             "name": "蓝奏云",
-            "url": "https://wwom.lanzouq.com/i4DTi3b4eyeb",
+            "url": "https://wwom.lanzouq.com/iYRrI3b86i1i",
             "password": "ZYRXYJ",
             "is_recommend": true
         },
         {
             "name": "Github",
-            "url": "https://github.com/ShizukuZZZ/MusicTool/releases/download/v1.0.2/MusicTool_v1.0.2.exe",
+            "url": "https://github.com/ShizukuZZZ/MusicTool/releases/download/untagged-67786f69a0e489d3e220/MusicTool_v1.0.2.exe",
             "is_recommend": false
         }
     ],
